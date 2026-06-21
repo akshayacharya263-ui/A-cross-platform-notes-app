@@ -1,2 +1,18 @@
-# A-cross-platform-notes-app
-A **Cross-Platform Notes App** is a Python and Flet-based application that allows users to create, edit, delete, and search notes easily. It stores notes in a JSON file and runs on **Windows, Linux, and macOS** using a single codebase.
+# Notes App (Flet)
+
+A simple cross-platform notes app built with Python + Flet.
+
+## Features
+- Add notes
+- Edit notes
+- Delete notes
+- Search notes
+- Local save using `notes.json`
+
+## Run
+1. Install Python 3
+2. Open terminal in this project folder
+3. Install dependency:
+   pip install -r requirements.txt
+4. Run:
+   python main.py
